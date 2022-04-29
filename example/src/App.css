@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+}
+
+iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+#footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+}
+
+#footerback,
+#footernext {
+  text-align: center;
+  width: 50%;
+  float: left;
+  border: 1px solid black;
+}
